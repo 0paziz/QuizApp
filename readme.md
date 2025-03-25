@@ -18,7 +18,7 @@ QuizApp is an interactive web-based application that allows users to test their 
 
 
 ## 🔗 Live Demo
-Check out the live demo [here](https://your-demo-link.com)
+Check out the live demo [here](https://0paziz.github.io/QuizApp/)
 
 
 ## ScreenShot
