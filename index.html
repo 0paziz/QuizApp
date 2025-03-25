@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="Main.css">
+    <title>Quiz App</title>
+  </head>
+  <body>
+   
+    
+
+    <main id="landing">
+
+      <div class="text-content">
+      <h1 id="main-title">Welcome to the <span id="title">Aziz Quiz!</span></h1>
+      <p id="pick" ><i>Pick a subject to get started</i> </p>
+             </div>
+  
+   <div class="subjects">
+ 
+
+ 
+     <button class="Quiz"  id="NerdQuizbtn">
+      <div class="imageContainer"><img class="emoji" id="nerd" alt="nerdEmoji" src="./images/nerdEmoji.png" ></img>
+      </div>
+          Nerd Quiz
+     </button>
+
+     <button class="Quiz"  id="TrickyQuizbtn" >
+      <div class="imageContainer"><img class="emoji" id="funny" alt="funnyEmoji" src="./images/funnyEmoji.png" ></img>
+      </div>
+          Tricky Quiz
+         </button>
+ 
+   </div>
+  
+ 
+         </main>
+
+         <div class="underDevelopment" style="display: none;"> <h2>we're still working on it, however you can try out Nerd Quiz</h2> </div>
+
+         <article id="Quiz-article" style="display: none;">
+          <div class="Quiz-title">
+          <div class="headerQuiz" >
+            <div class="imageContainer"><img class="emoji" id="nerd" alt="nerdEmoji" src="./images/nerdEmoji.png" ></img>
+            </div>
+        Nerdy Quiz
+       </div >
+               <p id="number-quiz"><i> Question <span id="current-q"></span> of 8 </i></p>
+          </div>
+   
+   <div class=" options-containers">
+           <h1 id="Quiz-question" class="questions-q">Question goes here</h1>
+           <div id="answer-options">
+
+           </div>
+   
+         <button class="Submit"  id="Sumbit">Next</button>
+   
+   </div>
+   
+   
+          </article>
+
+    <script src="./index.js"></script>
+
+  </body>
+</html>

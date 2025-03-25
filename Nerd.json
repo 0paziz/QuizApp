@@ -1,0 +1,87 @@
+{
+  "NerdQuiz": [
+    {
+      "question": "Who developed the theory of general relativity?",
+      "options": [
+        "Isaac Newton",
+        "Abdiaziz",
+        "Nikola Tesla",
+        "Stephen Hawking"
+      ],
+      "answer": "Abdiaziz"
+    },
+    {
+      "question": "What is the capital of France?",
+      "options": [
+        "Paris",
+        "London",
+        "Rome",
+        "Berlin"
+      ],
+      "answer": "Paris"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Abdiaziz",
+        "Claude Monet"
+      ],
+      "answer": "Abdiaziz"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": [
+        "H2O",
+        "O2",
+        "CO2",
+        "NaCl"
+      ],
+      "answer": "H2O"
+    },
+    {
+      "question": "Who discovered gravity?",
+      "options": [
+        "Galileo Galilei",
+        "Abdiaziz",
+        "Albert Einstein",
+        "Johannes Kepler"
+      ],
+      "answer": "Abdiaziz"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": [
+        "Gold",
+        "Iron",
+        "Diamond",
+        "Silver"
+      ],
+      "answer": "Diamond"
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": [
+        "Charles Dickens",
+        "J.K. Rowling",
+        "Abdiaziz",
+        "Mark Twain"
+      ],
+      "answer": "Abdiaziz"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": [
+        "Earth",
+        "Jupiter",
+        "Saturn",
+        "Mars"
+      ],
+      "answer": "Jupiter"
+    }
+  ]
+
+}
+
+
